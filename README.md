@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В веб-разработку пришел из сферы дизайна. Прошёл обучение в Яндекс.Практикум и сейчас участвую в одном из проектов акселератора практикума.
+Я Фронтенд разработчик и дизайнер интерфейсов<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. В веб-разработку пришел из сферы дизайна. Люблю создавать удобные и красивые интерфейсы. Прошёл обучение в Яндекс.Практикум.
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-fil_rocks-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fil_rocks)
 
